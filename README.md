@@ -66,7 +66,12 @@ colored: 1
 #### Stage 4
 Execute ```Main.class``` with either:
 - IntelliJ Run button.
-- CMD command ```> java Main```
+- CMD commands ```> cd "[FOLDER PATH]"``` ```> java Main```
 - Any other way you think will work.
 
 Now you have the data generated, and you can render the graphs using 'matplotlib' in the python version.
+Here are the CMD commands (you can also run in PyCharm):
+
+```cd "[FOLDER PATH]"```
+
+```python3 main.py```
