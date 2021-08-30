@@ -1,0 +1,5 @@
+render_final: 1
+optimize: 0
+generate_names: ["*"]
+render_names: []
+colored: 1
