@@ -37,7 +37,7 @@ Importing the chats from WhatsApp onto your computer.
 8. Finally, you should see a ```.txt``` file in your chat.
 ![txt file in chat](instructions/shared_chat.png)
 9. Now, move to your computer, and download the chat. Make sure to save it in ```project_folder / raw /```!
-![web download](instructions/web_download.png)
+![web download](instructions/web_downloaded.png)
 * You might also want to rename it, to be without emojis or difficult characters. The first part of "WhatsApp Chat with " do not touch.
 
 ##### You may repeat this process with as many chats as you wish.
